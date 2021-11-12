@@ -1,8 +1,8 @@
 #week2_3주차 에서 무시할 폴더
-/node_modules
+/week2_3/week3/node_modules
 
 #week8에서 무시할
-/node_modules
+/week8/node_modules
 
 #week10에서 무시할 폴더
-/node_modules
+/week10/node_modules
